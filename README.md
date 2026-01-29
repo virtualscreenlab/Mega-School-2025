@@ -21,4 +21,4 @@ classifier for prediction of disease-related mutations." PLoS Computational Biol
 5) Determine the SNP type (neutral or deleterious) for the specified mutations in 
 hnRNP A2B1. 
 
-6) https://www.nature.com/articles/nature11922 (SNPs in hnRNP A/B family) or COSMIC database
+6) https://www.nature.com/articles/nature11922 (SNPs in hnRNP A/B family) or COSMIC database (csv file)
